@@ -1,6 +1,6 @@
 # AI Resume Analyzer and Job Recommendation System
 
-This is a student mini project made using Python and Streamlit. The app reads a PDF or DOCX resume, extracts skills, compares the resume with job roles and gives a simple learning roadmap.
+This is a major project made using Python and Streamlit. The app reads a PDF or DOCX resume, extracts skills, compares the resume with job roles and gives a simple learning roadmap.
 
 ## Features
 
