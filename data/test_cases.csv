@@ -1,0 +1,4 @@
+test_resume,expected_top_role,actual_top_role,comments
+Resume A,Data Analyst,,Should contain Python SQL Excel Pandas Power BI
+Resume B,Machine Learning Engineer,,Should contain Python ML scikit-learn FastAPI Docker
+Resume C,NLP Engineer,,Should contain Python NLP transformers Hugging Face

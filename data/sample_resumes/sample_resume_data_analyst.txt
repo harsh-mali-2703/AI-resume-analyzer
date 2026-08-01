@@ -1,0 +1,11 @@
+Rahul Sharma
+Email removed for privacy
+
+Skills: Python, SQL, Excel, Pandas, NumPy, Power BI, Statistics, Git
+
+Projects:
+- Sales dashboard using Power BI and Excel
+- Customer analysis project using Python and Pandas
+
+Education:
+B.Tech Computer Science
